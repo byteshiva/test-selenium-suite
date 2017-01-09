@@ -1,5 +1,5 @@
 {
-  "name": "webdriverio-test",
+  "name": "test-selenium-suite",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
